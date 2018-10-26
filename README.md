@@ -1,5 +1,9 @@
 
 # Markdown Tutorial
+This tutorial is about Markdown language, we use markdown language for creating Github Readme and Git pages, Markdown is similar HTML you can use any of the HTML tags as well There are hundreds of Markdoown tags we use to wirte this.
+Note:- Markdown is commonly used for designing documentation not programs.
+
+# Heading 1
 ## Heading 2
 ### Heading 3
 #### Heading 4
